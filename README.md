@@ -8,4 +8,4 @@ A program that prints out a MineSweeper Board, but doesn't let you play! Wonderf
 
 A Blackjack Game
 
-Vizualizations of the MandleBrot Set
+Vizualizations of the MandleBrot Set: CS550-FallTerm/allinone.py
